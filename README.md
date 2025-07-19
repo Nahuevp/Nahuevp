@@ -49,7 +49,7 @@ Actualmente busco mi primera experiencia en el área de desarrollo de software, 
 ### 📫 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nahuel-viera-porta" target="_blank">
+  <a href="https://www.linkedin.com/in/nahuel-viera-porta-518077281" target="_blank">
     <img src="https://img.shields.io/badge/Conectá%20conmigo%20en-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
