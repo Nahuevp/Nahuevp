@@ -1,27 +1,35 @@
 <h1 align="center">¡Hola! 👋 Soy Nahuel Viera</h1>
-<p align="center">🎓 Estudiante de Licenciatura en Informática | 💻 Desarrollador en formación en .NET, Angular y GeneXus</p>
+<p align="center">🎓 Estudiante de Licenciatura en Informática | 💻 Desarrollador en formación con experiencia en .NET, Angular y GeneXus</p>
 
 ---
 
 ### 🚀 Sobre mí
 
 👨‍💻 Soy estudiante avanzado de la Licenciatura en Informática en la Universidad de la Empresa (UDE).  
-🔧 Apasionado por el desarrollo de software, actualmente en formación activa en tecnologías como **.NET, Angular 18 y GeneXus**.  
-🎯 Busco mi primera oportunidad profesional en IT para aplicar lo aprendido y seguir creciendo.
+💡 Apasionado por la tecnología, actualmente estoy enfocado en desarrollo de software utilizando tecnologías modernas como **.NET, Angular 18, SQL Server y GeneXus**.  
+🎯 Busco mi primera experiencia profesional en IT para seguir creciendo, aportar valor en equipo y aplicar todo lo aprendido en proyectos reales.
 
 ---
 
-### 🛠️ Tecnologías que manejo
+### 🧠 Tecnologías y herramientas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/GeneXus-Plataforma-informational?style=flat-square" />
 </div>
 
 ---
@@ -30,22 +38,19 @@
 
 | Proyecto | Tech Stack | Descripción |
 |----------|------------|-------------|
-| [Estudiantes App](https://github.com/Nahuevp/estudiantesAPI-frontend) | Angular 18 · .NET 8 · SQL Server | CRUD Full Stack con arquitectura por capas, API REST, Angular Material y Bootstrap. |
-| [API REST – Gestión de Jugadores](https://github.com/Nahuevp/Estudiantes-API) | .NET Core · Entity Framework | API backend con operaciones CRUD y validaciones usando EF y Swagger. |
-| [Prueba Técnica Angular](#) | Angular 18 · Bootstrap 5 | Registro y listado de productos, validaciones y diseño responsivo. |
+| [Estudiantes App](https://github.com/Nahuevp/estudiantesAPI-frontend) | Angular 18 · .NET 8 · SQL Server | App full stack con CRUD de estudiantes, arquitectura por capas, validaciones y consumo de API REST. |
+| [API REST en .NET](https://github.com/Nahuevp/Estudiantes-API) | .NET 8 · Entity Framework | Backend RESTful con validaciones de datos, endpoints organizados y documentación con Swagger. |
+| [Prueba Técnica Angular](#) | Angular 18 · Bootstrap 5 | App frontend con registro y listado de productos. Validaciones básicas y diseño responsivo. |
 
 ---
 
-### 📚 En aprendizaje
+### 🎯 Qué estoy buscando
 
-- Arquitectura de software y buenas prácticas
-- Git y control de versiones colaborativo
-- Diseño de interfaces con Tailwind y Angular Material
-- Patrones de diseño (MVC, Repository, etc.)
+Actualmente busco mi primera experiencia en el área de desarrollo de software, donde pueda aplicar lo aprendido en proyectos reales, colaborar en equipo y seguir creciendo profesionalmente en tecnologías como .NET, Angular y bases de datos SQL.
 
 ---
 
-### 📫 ¿Charlamos?
+### 📫 Contacto
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nahuel-viera-porta" target="_blank">
