@@ -34,9 +34,9 @@
 
 | Proyecto | Tech Stack | Descripción |
 |----------|------------|-------------|
-| [Estudiantes App](https://github.com/Nahuevp/estudiantesAPI-frontend) | Angular 18 · .NET 8 · SQL Server | App full stack con CRUD de estudiantes, arquitectura por capas, validaciones y consumo de API REST. |
-| [API REST en .NET](https://github.com/Nahuevp/Estudiantes-API) | .NET 8 · Entity Framework | Backend RESTful con validaciones de datos, endpoints organizados y documentación con Swagger. |
-| [Prueba Técnica Angular](#) | Angular 18 · Bootstrap 5 | App frontend con registro y listado de productos. Validaciones básicas y diseño responsivo. |
+| [Estudiantes App – Frontend](https://github.com/Nahuevp/EstudiantesAPI-frontend) + [Backend](https://github.com/Nahuevp/EstudiantesAPI-backend) | Angular 18 · .NET 8 · SQL Server | App full stack con CRUD de estudiantes. Incluye Angular Material, arquitectura por capas, validaciones y consumo de API REST. |
+| [API REST – Gestión de Jugadores](https://github.com/Nahuevp/JugadorAPI) | .NET 8 · Entity Framework | Backend RESTful en .NET con operaciones CRUD, validaciones de datos y documentación con Swagger. |
+| [Prueba Técnica Angular](https://github.com/Nahuevp/prueba-tecnica) | Angular 18 · Bootstrap 5 | App frontend con registro y listado de productos. Validaciones básicas, filtros y diseño responsivo. |
 
 ---
 
