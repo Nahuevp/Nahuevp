@@ -48,19 +48,13 @@ Actualmente busco mi primera experiencia en el área de desarrollo de software, 
 
 ### 📫 Contacto
 
-### 📫 Contacto
-
 <p align="center">
   <a href="https://www.linkedin.com/in/nahuel-viera-porta" target="_blank">
     <img src="https://img.shields.io/badge/Conectá%20conmigo%20en-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="mailto:nviera841@gmail.com">
-    <img src="https://img.shields.io/badge/Escribime%20por-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
-📧 nviera841@gmail.com
+  📧 Escribime a: <strong>nviera841@gmail.com</strong>
 </p>
 
