@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://github.com/genexuslabs/media/blob/main/logos/gx-glyph.svg?raw=true" width="40"/>
+  <img src="https://img.shields.io/badge/GeneXus-Plataforma-informational?style=flat-square" />
 </div>
 
 ---
