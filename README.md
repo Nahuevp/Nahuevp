@@ -7,7 +7,7 @@
 
 👨‍💻 Soy estudiante avanzado de la Licenciatura en Informática en la Universidad de la Empresa (UDE).  
 💡 Apasionado por la tecnología, actualmente estoy enfocado en desarrollo de software utilizando tecnologías modernas como **.NET, Angular 18, SQL Server y GeneXus**.  
-🎯 Busco mi primera experiencia profesional en IT para seguir creciendo, aportar valor en equipo y aplicar todo lo aprendido en proyectos reales.
+🔧 Tengo experiencia en la creación de aplicaciones web full stack aplicando buenas prácticas, validaciones, arquitectura por capas y uso de APIs REST.
 
 ---
 
