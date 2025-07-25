@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Nahuel Viera</h1>
-<p align="center">🎓 Estudiante de Licenciatura en Informática | 💻 Desarrollador en formación con experiencia en .NET, Angular y GeneXus</p>
+<p align="center">🎓 Estudiante de Licenciatura en Informática | 💻 Desarrollador en formación con experiencia en .NET (ASP.NET Core), Angular y GeneXus</p>
 
 ---
 
