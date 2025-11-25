@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Nahuel Viera</h1>
-<p align="center">🎓 Estudiante de Licenciatura en Informática | 💻 Desarrollador en formación con experiencia en .NET (ASP.NET Core), Angular y GeneXus</p>
+<p align="center">🎓 Estudiante de Licenciatura en Informática | 💻 Desarrollador en formación con experiencia en .NET (ASP.NET Core) y Angular</p>
 
 ---
 
@@ -25,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://img.shields.io/badge/GeneXus-Plataforma-informational?style=flat-square" />
 </div>
 
 ---
