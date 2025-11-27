@@ -1,13 +1,13 @@
 <h1 align="center">¡Hola! 👋 Soy Nahuel Viera</h1>
-<p align="center">🎓 Estudiante de Licenciatura en Informática | 💻 Desarrollador en formación con experiencia en .NET (ASP.NET Core) y Angular</p>
+<p align="center">🎓 Estudiante de Licenciatura en Informática | 💻 Desarrollador Jr | .NET · Angular</p>
 
 ---
 
 ### 🚀 Sobre mí
 
 👨‍💻 Soy estudiante avanzado de la Licenciatura en Informática en la Universidad de la Empresa (UDE).  
-💡 Apasionado por la tecnología, actualmente estoy enfocado en desarrollo de software utilizando tecnologías modernas como **.NET, Angular 18, SQL Server y GeneXus**.  
-🔧 Tengo experiencia en la creación de aplicaciones web full stack aplicando buenas prácticas, validaciones, arquitectura por capas y uso de APIs REST.
+🔧 Tengo experiencia desarrollando proyectos personales de frontend y backend, utilizando tecnologías modernas como **.NET, C#, ASP.NET Core, Angular y SQL Server**.  
+💡 Me interesa crecer como desarrollador junior, aprender nuevas herramientas y contribuir en equipos de trabajo aplicando buenas prácticas y un enfoque práctico para resolver problemas..
 
 ---
 
@@ -15,6 +15,8 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
